@@ -104,7 +104,7 @@ You can familiarize with how the Duckiebattery works by reading its [handling in
 (howto-camera-assembly-db21)=
 ## Camera Assembly
 
-This last section (steps 1 to 2) guide through the assembly of the Camera:
+This section (steps 1 to 2) guides you through the assembly of the Camera:
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_01.jpg
 ```
