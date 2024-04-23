@@ -4,9 +4,9 @@
 ### 1) Configure the Duckietown Shell
 
 The first thing you need to do with `dts` is to set the Duckietown software distribution you want to work with.
-For this version of the book, we use daffy. Set the shell to use the daffy distribution by running the following command
+For this version of the book, we use daffy. Set the shell to use a profile on the daffy distribution by running the command
 
-    dts --set-version daffy
+    dts profile switch daffy
 
 (dt-account-register)=
 ### 2) Get a Duckietown Token
