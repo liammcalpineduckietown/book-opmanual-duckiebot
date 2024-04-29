@@ -391,12 +391,9 @@ Steps 42 to 51 guide you through the assembly of the front bumper:
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_50.jpg
 ```
 
-
-
-```{figure} ../../_images/assembly/db21j/db21-rev1-step_51.jpg
+```{note}
+Step 51 has been skipped.
 ```
-
-
 
 (howto-top-deck-assembly-db21)=
 ## Top Deck Assembly
