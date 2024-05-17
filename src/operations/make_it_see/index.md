@@ -155,10 +155,6 @@ If that image is not running, you should update your Duckiebot to restart all co
 
 `dts duckiebot update ![DUCKIEBOT_NAME]`
 
-Or to manually start just the `duckiebot-interface`, do:
-
-`docker -H ![DUCKIEBOT_NAME].local run --name duckiebot-interface -v /data:/data --privileged --network=host -dit --restart unless-stopped duckietown/dt-duckiebot-interface:daffy-arm32v7`
-
 ```{seealso}
 For more information about `rostopic`, see [](using-no-vnc). 
 You can see the images as your robot sees them with `rostopic echo /![DUCKIEBOT_NAME]/camera_node/image/compressed`. 
