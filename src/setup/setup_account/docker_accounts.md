@@ -49,9 +49,7 @@ most of the back-end operations involving docker.
 
 You can pass wour DockerHub credentials to the Duckietown Shell by running the following command,
 ```bash
-dts config docker credentials set \
-    --username DOCKERHUB_USERNAME \
-    --password DOCKERHUB_ACCESS_TOKEN
+dts config docker credentials set --username DOCKERHUB_USERNAME --password DOCKERHUB_ACCESS_TOKEN
 ```
 
 ```{admonition} For developers
