@@ -104,7 +104,7 @@ You can familiarize with how the Duckiebattery works by reading its [handling in
 (howto-camera-assembly-db21)=
 ## Camera Assembly
 
-This section (steps 1 to 2) guides you through the assembly of the Camera:
+This section (steps 1 to 2) guides you through the assembly of the *camera assembly*.
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_01.jpg
 ```
@@ -117,7 +117,7 @@ This section (steps 1 to 2) guides you through the assembly of the Camera:
 (howto-base-plate-db21)=
 ## Base-plate
 
-In the following steps (3 to 18) we will build the *base-plate* assembly of the Duckiebot.
+This section (steps 3 to 18) guides you through the assembly of the *base-plate*.
 
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-overview-step_03-18.jpg
@@ -198,7 +198,7 @@ Before proceeding, verify that no component is wiggling. The only things moving 
 (howto-computation-db21)=
 ## Computation Unit
 
-The following steps (19 to 27) guide through the assembly of the *Computation* unit:
+This section (steps 19 to 27) guides you through the assembly of the *computation unit*.
 
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-overview-step_19-27.jpg
@@ -220,12 +220,12 @@ You can try to mount the wheels even without the distance disks. But make sure t
 
 
 
-```{figure} ../../_images/assembly/db21j/db21-rev1-step_20.png
+```{figure} ../../_images/assembly/db21j/db21-rev1-step_20.jpg
 ```
 
 
 
-```{figure} ../../_images/assembly/db21j/db21-rev1-step_21.png
+```{figure} ../../_images/assembly/db21j/db21-rev1-step_21.jpg
 ```
 
 
@@ -260,7 +260,7 @@ Now connect it to the base-plate (i.e, the rest of the chassis assembled in step
 (howto-rear-assembly-db21)=
 ## Rear Assembly
 
-The following steps (28 to 40) guide through the assembly of the rear part of the Duckiebot:
+This section (steps 28 to 41) guides you through the assembly of the *rear assembly*.
 
 
 
@@ -339,7 +339,7 @@ Make sure that both rows of pins on the 40-pin expansion header on the Jetson Na
 (howto-front-assembly-db21)=
 ## Front Assembly
 
-Steps 42 to 51 guide you through the assembly of the front bumper:
+This section (steps 42 to 51) guides you through the assembly of the *front assembly*.
 
 
 
@@ -398,7 +398,7 @@ Step 51 has been skipped.
 (howto-top-deck-assembly-db21)=
 ## Top Deck Assembly
 
-This last section (steps 52 to 62) guide through the assembly of the top deck:
+This last section (steps 52 to 61) guides you through the assembly of the *top deck assembly*.
 
 
 
