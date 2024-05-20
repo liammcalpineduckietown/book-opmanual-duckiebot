@@ -97,7 +97,6 @@ which dts
 This should output a path ending in `dts`.
 ```
 
-`````
 
 ````{tab-item} Windows (Beta)
 
@@ -134,3 +133,4 @@ This should output a path ending in `dts`.
 ```
 
 ````
+`````
