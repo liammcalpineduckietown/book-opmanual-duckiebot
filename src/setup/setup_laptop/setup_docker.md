@@ -50,7 +50,7 @@ Start by adding the user "docker" to your user group, then log out and back in
     sudo adduser `whoami` docker
 
 ```{attention}
-You need to _log out and back in_ for this group change to take effect.
+You need to **reboot your computer** for this change to take effect. Until you do, an error will be shown for most of the steps that follow.
 ```
 
 ---
