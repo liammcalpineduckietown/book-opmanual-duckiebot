@@ -18,7 +18,7 @@ The easiest way to move a Duckiebot is by using the `keyboard_control` command p
 
 ### Option 1: Use the GUI (For Linux Users)
 
-If you are using Mac OSX, [see Option 2](mac-users-cli). 
+If you are using macOS, [see Option 2](mac-users-cli). 
 
 To move your Duckiebot using your computer's keyboard open a terminal and run:
 

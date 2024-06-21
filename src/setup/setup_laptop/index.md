@@ -68,7 +68,7 @@ If you are running Ubuntu in a VM make sure that you are using a Bridged network
 (for example VirtualBox uses NAT by default). This allows you to be on the same subnetwork
 as your Duckiebot.
 
-Sometimes when running a VMware machine on a Mac OS host, it is neccessary to have two
+Sometimes when running a VMware machine on a macOS host, it is neccessary to have two
 network adapters: _Share with my Mac_ for connecting to the internet and _Bridged Networking_
 for connecting to the Duckiebot.
 
