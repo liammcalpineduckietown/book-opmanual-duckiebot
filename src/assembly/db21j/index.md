@@ -346,7 +346,9 @@ This section (steps 42 to 51) guides you through the assembly of the *front asse
 ```{figure} ../../_images/assembly/db21j/db21-rev1-overview-step_42-51.jpg
 ```
 
-
+```{note}
+Ignore the cable routing for the ToF sensor in the figure above.
+```
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_42.jpg
 ```
