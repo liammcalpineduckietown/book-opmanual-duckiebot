@@ -123,12 +123,13 @@ This section (steps 3 to 18) guides you through the assembly of the *base-plate*
 ```{figure} ../../_images/assembly/db21j/db21-rev1-overview-step_03-18.jpg
 ```
 
-```{note}
-You could try to use shorter screws in case the screws do not fully insert into the standoffs.
-```
 
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_03.jpg
+```
+
+```{note}
+You could try to use shorter screws in case the screws do not fully insert into the standoffs.
 ```
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_04.jpg
