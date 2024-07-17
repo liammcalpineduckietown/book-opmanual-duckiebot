@@ -51,7 +51,7 @@ This should output a path ending in `dts`.
 ````
 
 
-````{tab-item} MacOSX
+````{tab-item} macOS
 
 The Duckietown Shell is a [command-line interface (CLI) program](https://en.wikipedia.org/wiki/Command-line_interface) 
 that provides all of the necessary Duckietown operations, such as
@@ -83,6 +83,10 @@ If you are using `zsh`, replace the `.bashrc` in the commands below with `.zshrc
 Then source the updates to your current shell
 
     source ~/.bashrc
+
+```{attention}
+If this does not work, try using `.bash_profile` and/or `export PATH=~/Library/Python/VERSION/bin:${PATH}` instead, where `VERSION` is your Python version.
+```
 
 ---
 
