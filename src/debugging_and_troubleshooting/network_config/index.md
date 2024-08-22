@@ -1,3 +1,8 @@
+```{seo}
+:description: Duckietown network setup
+:keywords: Duckietown, Duckiebot, network
+```
+
 (duckiebot-network)=
 # Operation - Networking
 
@@ -14,7 +19,7 @@ By default on boot your robot will look for a network with a "`duckietown`" SSID
 
 This page describes how to get your robot connected to the wide-area network (internet).
 
-## Add WiFi Networks without reinitializing the SD card
+## Add Wi-Fi Networks without reinitializing the SD card
 
 To add networks at a later stage or modify existing settings, edit the file `wpa_supplicant.conf` in the main partition of the SD card. 
 
@@ -61,7 +66,7 @@ which will try to download the Google homepage. If it is successful, you should 
     </BODY></HTML>
 ```
 
-## Option 1: Connect your Duckiebot to the internet through a WiFi router that you control
+## Option 1: Connect your Duckiebot to the internet through a Wi-Fi router that you control
 
 If you are working from your home, for example, you simply need to make the Duckiebot connect to your home network. You may have input the proper SSID and password when you initialized the SD card, in which case, your Duckiebot should be connected to the internet already.
 
@@ -148,7 +153,7 @@ Additional debugging steps:
 
 - Step 2: Connect your Duckiebot with the laptop using the ethernet cable. Check if you are able to ping the Duckiebot. This will provide you an hint if there is an issue with the robot or network.
 
-- Step 3: Check that this file: `/etc/wpa_supplicant/wpa_supplicant.conf` contains all the wifi networks in the correct syntax that you want to connect.
+- Step 3: Check that this file: `/etc/wpa_supplicant/wpa_supplicant.conf` contains all the Wi-Fi networks in the correct syntax that you want to connect.
 
 - Step 4: If it's your private access point, then you can access your router, typically connecting to `192.168.0.1`, where you can see all the devices connected. Make sure that both your Duckiebot and your laptop are in the list.
 

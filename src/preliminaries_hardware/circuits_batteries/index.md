@@ -1,3 +1,8 @@
+```{seo}
+:description: Preliminary information on batteries used in Duckiebots. Batteries are potentially dangerous and should be handled with care.
+:keywords: Duckietown, Duckiebot, batteries, duckiebattery, duckie-power-bank, handling batteries, Duckiebot autonomy
+```
+
 (db-opmanual-preliminaries-electronics)= 
 # Handling circuits and batteries
 
@@ -14,7 +19,9 @@ Duckiebots support several power bank models, although not all power sources wil
 
 This battery has been the standard battery for the Duckiebots since 2021. For example, models `DB21M`, `DB21J`, and `DBR4` use this battery.
 
-The Duckiebattery is special because it is a programmable, smart battery, designed and manufactured specifically for Duckiebots. Using this battery will allow your Duckiebot to monitor the state of charge and other diagnostics, and shutdown via software. Moreover, it enables advanced features such as auto-charging in Autolabs, because it will guarantee power to the onboard computer when being plugged in or out of charge. 
+The Duckiebattery is a special battery. It is special because it is programmable, smart, and designed specifically for Duckiebots. 
+
+Using this battery will allow your Duckiebot to monitor the state of charge and other diagnostics, and shutdown via software. Moreover, it enables advanced features such as auto-charging in Autolabs, because it will guarantee power to the onboard computer when being plugged in or out of charge. 
 
 <!--
 ```{figure} ../../_images/preliminaries_hardware/chap_2_1_images/DB-C-DBatt_real2.jpg

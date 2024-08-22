@@ -1,3 +1,7 @@
+```{seo}
+:description: How to take a ROS log with a Duckiebot
+:keywords: Duckietown, Duckiebot, take a log
+```
 
 (take-a-log)=
 # Operation - Taking and verifying a log  
@@ -16,8 +20,6 @@ Result: A verified log.
 ## Preparation
 
 ```{note}
-Use note directives for basic highlighting.
-
 This assumes that you have the folder `/data/logs` on the Duckiebot. 
 If not, SSH into your robot and execute:
 

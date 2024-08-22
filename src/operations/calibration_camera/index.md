@@ -1,3 +1,8 @@
+```{seo}
+:description: Duckiebot camera calibration
+:keywords: Duckietown, Duckiebot, camera calibration
+```
+
 (camera-calib)=
 # Calibration - Camera
 

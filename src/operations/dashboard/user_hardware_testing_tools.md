@@ -1,3 +1,7 @@
+```{seo}
+:description: Duckiebot hardware components individual testing protocols
+:keywords: Duckietown, Duckiebot, hardware, components, testing, dashboard
+```
 (duckiebot-dashboard-user-hardware-testing-tools)=
 # Hardware Component Testing
 

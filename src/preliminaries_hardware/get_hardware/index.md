@@ -1,3 +1,8 @@
+```{seo}
+:description: How to obtain a Duckiebot.
+:keywords: Duckietown, Duckiebot, get hardware
+```
+
 (get-db-hw)= 
 # Getting the Duckiebot hardware
 

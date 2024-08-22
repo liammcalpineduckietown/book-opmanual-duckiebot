@@ -1,3 +1,8 @@
+```{seo}
+:description: Duckietown SD card flashing
+:keywords: Duckietown, Duckiebot, sd-card, sd card, flashing, reflashing, initialization
+```
+
 (reflash-microcontroller)=
 # Debug - Re-flash Microcontroller
 
@@ -17,7 +22,12 @@ This procedure is needed only if your Duckiebot does not recognize the HUT (Dash
 
 This procedure flashes the microcontroller on the Duckietown HUT. This microcontroller is responsible for translating the duty cycle commands from the onboard computer to actual `PWM` signals that control the motors and the LEDs (because they are "addressable" LEDs) of the Duckiebots.
 
-A typical example of when is necessary to flash the microcontroller is when commands are sent to the motors, e.g., through keyboard control, the motors signals on the dashboard/mission control show that signals are correctly being sent, but the Duckiebot does not move.  
+A typical example of when is necessary to flash the microcontroller is when:
+
+(a) commands are sent to the motors, e.g., through keyboard control,
+(b) the motors signals on the dashboard/mission control show that signals are correctly being sent, 
+
+but the Duckiebot does not move.  
 
 This procedure will not be useful to fix problems such as one motor working and not the other, or LEDs showing unexpected colors when the motors work.
 

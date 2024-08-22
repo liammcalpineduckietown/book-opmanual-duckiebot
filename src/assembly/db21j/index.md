@@ -1,6 +1,11 @@
 (assembling-duckiebot-db21j)=
 # Assembly - Duckiebot `DB21J`
 
+```{seo}
+:description: Assembly instructions for the Duckiebot model DB21-J4, with Jetson Nano 4GB.
+:keywords: Duckietown, Duckiebot, DB21J4, DB21J, assembly, instructions
+```
+
 ```{needget}
 * Duckiebot `DB21` parts ([get a `DB21-Jx`](https://get.duckietown.com/products/duckiebot-db21?variant=41543707099311)). If you are unsure what version of Duckiebot you have, check the overview of existing [Duckiebot configurations](duckiebot-configurations).
 
@@ -47,7 +52,7 @@ The Troubleshooting section at the bottom of this page provides resolutions to c
 
 ### Unboxing
 
-Unbox all of your components and lay them out on a flat surface. Ensure that you have well lit, uncluttered space to work on.
+Unbox all of your components and lay them out on a flat surface. Ensure that you have well-lit, uncluttered space to work on.
 
 ```{note}
 "The Duckiebox hides but does not steal". Your Duckiebot chassis might be under the white protection foam inside the box. To reach it, pull out the white foam from the box after removing everything. Mind that the upper part of the inside foam has several side pockets in addition to a main compartment where components are located.
@@ -418,16 +423,20 @@ This last section (steps 52 to 61) guides you through the assembly of the *top d
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_53.jpg
 ```
 
-
+```{attention}
+Make sure the cable connections between `HUT` and screen are as follows:
+- Blue cable: `SDA` &harr; `SDA`
+- Yellow cable: `SCL` &harr; `SCL`
+- Black cable: `GND` &harr; `GND`
+- Red cable: `3.3V` &harr; `VCC`
+```
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_54.jpg
 ```
 
 
-
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_55.jpg
 ```
-
 
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_56.jpg
@@ -601,7 +610,6 @@ Occasionally the standoffs are not fully threaded due to manufacturing inefficie
 
      ```{figure} ../../_images/assembly/db21j/db21-omni-dirtysolution.jpg
      ```
-
 ````
 
 ```{trouble}
@@ -651,6 +659,13 @@ ToF sensor not detected
 
 ---
 If you have Jetson Nano with 2 camera ports, try to plug ToF into CH4 instead of CH6 on the front LED bumper board.
+````
+
+````{trouble}
+"Bad Gateway" error on the Dashboard
+
+---
+Double check all i2c cable connections: (a) front bumper, (b) time-of-flight sensor, (c) IMU, (d) back bumper, (e) screen.   
 ````
 
 ````{trouble}

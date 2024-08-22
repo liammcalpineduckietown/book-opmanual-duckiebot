@@ -1,15 +1,22 @@
+```{seo}
+:description: Frequently asked questions and answers for Duckiebot and assembly and computer set up
+:keywords: Duckietown, Duckiebot, setup, FAQ, troubleshooting
+```
+
 (troubleshooting-faq)=
 # Duckiebot FAQ Guide
 
-This FAQ page collects common roadblocks you might run into when setting up your Duckietown environment and 
-operating your Duckiebot.
+This FAQ page collects common roadblocks you might run into when setting up your Duckietown environment and operating your Duckiebot.
 
-Each symptom and resolution are also available on the pages they relate to throughout the manual, so be sure to watch for troubleshooting 
-sections and carefully complete checkpoints as you progress.
+Each symptom and resolution are also available on the pages they relate to throughout the manual, so be sure to watch for troubleshooting sections and carefully complete checkpoints as you progress.
 
-If you don't find the solutions you need in this book, be sure to first search the Duckietown Stack 
-Overflow and Slack communities for previous answers, then post your own question following the support guidelines on 
-Slack.
+```{attention}
+If you don't find the solutions you need in this section:
+
+1. search the [Duckietown Stack Overflow](https://stackoverflowteams.com/c/duckietown/questions) -- to receive an invitation ([join the Slack community](https://duckietown.com/join-slack)) and follow [these instructions](https://duckietown.slack.com/archives/CHHQJ0E0H/p1670874390660429);
+2. search the Slack community #help channels, 
+3. then post your own question following the [Duckietown technical support guidelines](https://duckietown.com/contact/#technical-support).
+```
 
 (boot-faq)=
 ## FAQs: Booting your Duckiebot

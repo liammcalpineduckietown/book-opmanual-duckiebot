@@ -1,3 +1,8 @@
+```{seo}
+:description: There have been many iterations of Duckiebots models and versions. Find the distinctions here.
+:keywords: Duckietown, Duckiebot, configurations
+```
+
 (duckiebot-configurations)= 
 # Duckiebot Configurations
 

@@ -1,3 +1,8 @@
+```{seo}
+:description: How to remote control a Duckiebot through a keyboard (or joystick)
+:keywords: Duckietown, Duckiebot, remote control, keyboard control
+```
+
 (rc-control)=
 # Operation - Make it Move
 

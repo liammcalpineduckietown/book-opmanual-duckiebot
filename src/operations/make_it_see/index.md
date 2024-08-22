@@ -1,3 +1,8 @@
+```{seo}
+:description: How to access the Duckiebot camera stream (or, see what it sees)
+:keywords: Duckietown, Duckiebot, camera stream, perception, image sensing
+```
+
 (make-it-see)=
 # Operation - Make it See
 

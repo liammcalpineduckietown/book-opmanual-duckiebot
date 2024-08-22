@@ -1,3 +1,8 @@
+```{seo}
+:description: Duckietown Dashboard setup
+:keywords: Duckietown, Duckiebot, Dashboard setup
+```
+
 (duckiebot-dashboard-use)=
 # Operation - Use the Dashboard
 
@@ -6,8 +11,7 @@ This section shows how to use the Duckietown Dashboard on the Duckiebot.
 (dashboard-overview)=
 ## What is in the Dashboard?
 
-The following video provides a brief tour of the most important features
-of the Duckietown Dashboard on your Duckiebot.
+The following video provides a brief tour of the most important features of the Duckietown Dashboard on your Duckiebot.
 
 <div figure-id="fig:howto-dashboard-use" figure-caption="Dashboard operation tutorial.">
 <dtvideo src="vimeo:527022343"/>

@@ -1,3 +1,8 @@
+```{seo}
+:description: Duckietown wheel calibration
+:keywords: Duckietown, Duckiebot, wheel calibration, odometry
+```
+
 (wheel-calibration)=
 # Calibration - Wheels
 
