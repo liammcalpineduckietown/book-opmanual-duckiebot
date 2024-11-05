@@ -1,6 +1,6 @@
 ```{seo}
-:description: How to take a ROS log with a Duckiebot
-:keywords: Duckietown, Duckiebot, take a log
+:description: How to take a ROS log with a Duckiebot.
+:keywords: Duckietown, Duckiebot, take a log, ROS, log, rosbag
 ```
 
 (take-a-log)=

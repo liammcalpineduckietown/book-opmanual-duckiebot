@@ -1,3 +1,8 @@
+```{seo}
+:description: You will require several accounts with (free) third-party software to use Duckietown. Here is a ste-by-step guide on how to set up your accounts.
+:keywords: Duckietown, setup, accounts
+```
+
 ## Step 1: Duckietown Account Setup
 
 (dt-account-dockerhub-shell-credentials)=

@@ -1,3 +1,8 @@
+```{seo}
+:description: Terminal interface for burning your Duckiebot SD card. An alternative to the graphical user interface (GUI).
+:keywords: Duckietown, setup, SD card, initialization, dts init sd card, terminal interface 
+```
+
 (burn-sd-card)=
 # Burn the SD card - CLI
 

@@ -1,3 +1,8 @@
+```{seo}
+:description: A guide on how to keep your Duckiebot always up to date.
+:keywords: Duckietown, Duckiebot, update, release, over the air updates, dts duckiebot update
+```
+
 (duckiebot-autoupdate)=
 # Debug - Duckiebot Update 
 
@@ -20,7 +25,7 @@ The update method described in this page will allow you to receive an **Over The
 (dt-autoupdate-dts)=
 ## Update Duckiebot container using `dts` command 
 
-If your Duckiebot has not been used for a while and a new image has been released, you don't necessarily need to re-flash the Duckiebot image as described in [the initialization procedure](setup-duckiebot). Instead, you can use `dts duckiebot update` command to update your Duckiebot.
+If your Duckiebot has not been used for a while and a new image has been released, you don't necessarily need to re-flash the Duckiebot image as described in [the initialization procedure](setup-duckiebot-sd-card). Instead, you can use `dts duckiebot update` command to update your Duckiebot.
 
     $ dts duckiebot update ![DUCKIEBOT_NAME]
 

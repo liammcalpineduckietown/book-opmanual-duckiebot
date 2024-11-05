@@ -1,5 +1,5 @@
 ```{seo}
-:description: How to access the Duckiebot camera stream (or, see what it sees)
+:description: How to access the Duckiebot camera stream (or, see what it sees).
 :keywords: Duckietown, Duckiebot, camera stream, perception, image sensing
 ```
 

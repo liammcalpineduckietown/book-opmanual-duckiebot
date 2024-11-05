@@ -1,13 +1,13 @@
 ```{seo}
 :description: Duckietown network setup
-:keywords: Duckietown, Duckiebot, network
+:keywords: Duckietown, Duckiebot, network, how to setup the network for Duckietown
 ```
 
 (duckiebot-network)=
 # Operation - Networking
 
 ```{needget}
-* A Duckiebot that is initialized according to [](#setup-duckiebot).
+* A Duckiebot that is initialized according to [](setup-duckiebot-sd-card).
 * Patience (channel your inner Yoda)
 ---
 * A Duckiebot that you can connect to and that is connected to the internet.
@@ -239,7 +239,7 @@ I can SSH to the Duckiebot but not without a password
 ---
 Check the file `~.ssh/config` and make sure you add your `ssh` key there, in case it doesn't exists.
 
-The `init_sd_card` [procedure](setup-duckiebot) should generate a paragraph in the above file in the following format:
+The `init_sd_card` [initialization procedure](ssetup-duckiebot-sd-card) should generate a paragraph in the above file in the following format:
 
 ``
     Host duckiebot

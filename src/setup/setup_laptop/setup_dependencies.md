@@ -1,3 +1,8 @@
+```{seo}
+:description: A step-by-step guide on installing the needed software dependencies on your Duckietown workstation.
+:keywords: Duckietown, setup, computer, Ubuntu, Windows, Mac OS, dependencies
+```
+
 ## Step 1: Dependency Installation
 
 Select the tab for your operating system below, and follow the instructions to begin installing the Duckietown software dependencies.

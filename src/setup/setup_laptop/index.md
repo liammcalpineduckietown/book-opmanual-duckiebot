@@ -1,3 +1,8 @@
+```{seo}
+:description: Before getting started with Duckietown you need to set up your computer. This section provides a step-by-step guide on how to set up your Duckietown workstation.
+:keywords: Duckietown, setup, laptop, workstation, computer, Ubuntu, OS, minimal requirements, supported OS
+```
+
 (laptop-setup)=
 # Setup - Laptop
 

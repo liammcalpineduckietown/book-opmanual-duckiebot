@@ -1,5 +1,5 @@
 ```{seo}
-:description: How to actuate the Duckiebot LEDs - changing color and intensity
+:description: How to actuate the Duckiebot LEDs - changing color and intensity.
 :keywords: Duckietown, Duckiebot, LEDs, change LED color, change LED intensity
 ```
 

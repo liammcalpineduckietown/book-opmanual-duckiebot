@@ -1,6 +1,6 @@
 ```{seo}
-:description: How to obtain a Duckiebot.
-:keywords: Duckietown, Duckiebot, get hardware
+:description: Official Duckietown hardware can be obtained through the Duckietown online shop, or by reaching out to Duckietown. 
+:keywords: Duckietown, Duckiebot, get hardware, online shop, purchase robot, DIY robot, robot kit
 ```
 
 (get-db-hw)= 

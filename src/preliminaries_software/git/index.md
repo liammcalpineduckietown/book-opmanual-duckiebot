@@ -1,11 +1,16 @@
+```{seo}
+:description: Professional software development typically leverages versioning to keep track of changes. Git is a powerful tool to collaborate on sophisticated projects, and GitHub is a typical interface.
+:keywords: Duckietown, Duckiebot, software, software development, Git, GitHub, robotics projects
+```
+
 (version_control_with_git)=
 # Version Control with Git
+
+Professional software development typically leverages versioning to keep track of changes. [Git](https://git-scm.com/) is a powerful tool to collaborate on sophisticated projects, and [GitHub](https://github.com/) provides a convenient interface.
 
 <div figure-id="fig:tutorial-git-video" figure-caption="An introduction to version control with Git.">
     <dtvideo src="vimeo:526923344"/>
 </div>
-
-
 
 ## Background reading
 
@@ -23,7 +28,7 @@ Additional utilities for `git` are installed using:
 
     sudo apt install git-extras
 
-This include the `git-ignore` utility, which comes in handy when you have files that you don't
+This includes the `git-ignore` utility, which comes in handy when you have files that you do not
 actually want to push to the remote branch (such as temporary files).
 
 

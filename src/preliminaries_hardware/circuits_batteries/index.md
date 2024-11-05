@@ -1,5 +1,5 @@
 ```{seo}
-:description: Preliminary information on batteries used in Duckiebots. Batteries are potentially dangerous and should be handled with care.
+:description: Batteries are potentially dangerous and should be handled with care. Learn about Duckiebot batteries and how to handle them. 
 :keywords: Duckietown, Duckiebot, batteries, duckiebattery, duckie-power-bank, handling batteries, Duckiebot autonomy
 ```
 

@@ -1,5 +1,5 @@
 ```{seo}
-:description: Miscellanea Duckiebot software tools for maintainance, development and operations
+:description: Miscellanea Duckiebot software tools for maintainance, development and operations.
 :keywords: Duckietown, Duckiebot, novnc, ROS, start gui tools
 ```
 

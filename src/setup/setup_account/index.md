@@ -1,3 +1,8 @@
+```{seo}
+:description: A guide to setting up your accounts prior to using Duckietown.
+:keywords: Duckietown, accounts, how to
+```
+
 (dt-account)=
 # Setup - Accounts
 

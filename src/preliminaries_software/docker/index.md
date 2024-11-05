@@ -1,3 +1,8 @@
+```{seo}
+:description: Duckietown is Dockerized to enhance reproducibility. Docker allows Duckietown software to run in isolation from the environment of the computer on which it is run.
+:keywords: Duckietown, Duckiebot, software, Docker, dockerization, reproducibility in robotics
+```
+
 (preliminaries-docker-basics)=
 # Docker Basics
 

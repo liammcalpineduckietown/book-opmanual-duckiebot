@@ -1,5 +1,5 @@
 ```{seo}
-:description: How to remote control a Duckiebot through a keyboard (or joystick)
+:description: How to remote control a Duckiebot through a keyboard (or joystick). Welcome to open loop control.
 :keywords: Duckietown, Duckiebot, remote control, keyboard control
 ```
 

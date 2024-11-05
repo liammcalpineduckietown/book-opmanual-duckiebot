@@ -2,8 +2,8 @@
 # Assembly - Duckiebot `DB21J`
 
 ```{seo}
-:description: Assembly instructions for the Duckiebot model DB21-J4, with Jetson Nano 4GB.
-:keywords: Duckietown, Duckiebot, DB21J4, DB21J, assembly, instructions
+:description: Assembly instructions for the Duckiebot model DB21-J4, with NVIDIA Jetson Nano 4GB.
+:keywords: Duckietown, Duckiebot, DB21J4, DB21J, assembly, instructions, how to assembled a duckiebot, NVIDIA, Jetson Nano, Jetbot
 ```
 
 ```{needget}

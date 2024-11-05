@@ -1,3 +1,8 @@
+```{seo}
+:description: How to set up your Docker account in Duckietown.
+:keywords: Duckietown, Docker, setup, account
+```
+
 ## Step 2: Docker Account Setup
 
 Duckietown leverages containerization to ensure software portability and reproducibility.

@@ -1,5 +1,5 @@
 ```{seo}
-:description: Duckietown wheel calibration
+:description: How to perform the wheel calibration for a Duckietown Duckiebot (all versions).
 :keywords: Duckietown, Duckiebot, wheel calibration, odometry
 ```
 

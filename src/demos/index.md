@@ -1,3 +1,8 @@
+```{seo}
+:description: Demos in Duckietown are out-of-the-box autonomous behaviors that run with a line code.
+:keywords: duckietown, demo, autonomous driving, demonstration, duckiebot, db21, db21-j4, AV, autonomous vehicle, self-driving car, self-driving, robot autonomy, AI robotics
+```
+
 (db-demos)=
 # Introduction to Demos
 

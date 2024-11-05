@@ -1,5 +1,5 @@
 ```{seo}
-:description: Duckiebot camera calibration
+:description: How to perform the intrinsics and extrinsic camera calibration for a Duckietown Duckiebot (all versions).
 :keywords: Duckietown, Duckiebot, camera calibration
 ```
 

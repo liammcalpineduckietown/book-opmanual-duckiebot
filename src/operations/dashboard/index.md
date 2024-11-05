@@ -1,6 +1,6 @@
 ```{seo}
-:description: Duckietown Dashboard setup
-:keywords: Duckietown, Duckiebot, Dashboard setup
+:description: How to setup the Duckietown Dashboard for Duckiebots and Duckiedrones.
+:keywords: Duckietown, Duckiebot, Dashboard setup, Browser-based UI
 ```
 
 (duckiebot-dashboard-use)=

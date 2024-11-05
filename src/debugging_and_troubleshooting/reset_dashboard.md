@@ -1,6 +1,6 @@
 ```{seo}
-:description: How to reset the Duckietown Duckiebot browser dashboard
-:keywords: Duckietown, Duckiebot, dashboard
+:description: How to reset the Duckietown Duckiebot browser dashboard. 
+:keywords: Duckietown, Duckiebot, dashboard, browser, UI
 ```
 
 (reset-dashboard)=

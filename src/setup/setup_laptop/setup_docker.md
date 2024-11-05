@@ -1,3 +1,8 @@
+```{seo}
+:description: A step-by-step guide on how to install needed dependencies on your workstation for taking full advantage of teh Duckietown software infrastructure.
+:keywords: Duckietown, setup, laptop, workstation, computer, Ubuntu, OS, minimal requirements, supported OS, Docker, Git, Github, windows, mac OS
+```
+
 (laptop-setup-docker)=
 # Step 2: Docker Installation
 
