@@ -1,3 +1,8 @@
+```{seo}
+:description: Duckietown lane following autonomous behavior demo. 
+:keywords: duckietown, demo, autonomous driving, demonstration, duckiebot, db21, db21-j4, AV, autonomous vehicle, self-driving car, self-driving, robot autonomy, AI robotics
+```
+
 (demo-lane-following)=
 # Lane following (`LF`)
 
@@ -13,16 +18,31 @@
 
 (demo-lane-following-expected)=
 ## Expected results
-
+<!--
 ```{admonition} Outcome of the lane following demo.
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/334931570" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p><a href="https://vimeo.com/334931570">A Duckiebot following the lane.</a> from <a href="https://vimeo.com/duckietown">Duckietown</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/334931570">An old DB18 Duckiebot following the lane.</p>
 ```
+-->
 
-```{todo}
-Fix video above, it does not use the proper vimeo directive.
-```
+````{admonition} Newer DB21 Duckiebots following the lane
 
+```{vimeo} 1026496889
+:alt: Newer DB21J Duckiebots autonomously driving down the lane with the Duckietown lane following behavior. 
+
+````
+
+````{admonition} An old DB18 Duckiebot following the lane
+
+```{vimeo} 334931570
+:alt: An old DB18 Duckiebot following the lane. 
+
+````
+
+<!--
+https://vimeo.com/717506984 : duckiebot driving UK style (left-lane driving)
+https://vimeo.com/1026496889?share=copy (right lane driving)
+-->
 
 (demo-lane-following-duckietown-setup)=
 ## Duckietown setup notes
@@ -103,13 +123,20 @@ This step is optional, and it provides a visualization of the line segments that
 ```none
 dts start_gui_tools ![DUCKIEBOT_NAME]
 ```
-
-* Run `rqt_image_view` and select the `/ROBOT_NAME/line_detector_node/debug/segments/compressed`. You should see something like this:
-
+<!--
     ```{admonition} Outcome of the line detector node.
     <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/334931437" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
     <p><a href="https://vimeo.com/334931437">Line segment detections</a> from <a href="https://vimeo.com/duckietown">Duckietown</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
     ```
+-->
+* Run `rqt_image_view` and select the `/ROBOT_NAME/line_detector_node/debug/segments/compressed`. You should see something like this:
+
+    ````{admonition} Outcome of the line detector node
+
+    ```{vimeo} 334931437
+    :alt: Line segment detections from Duckiebots in Duckietown. 
+
+    ````
 
 * In `rqt_image_view` by selecting the `/ROBOT_NAME/ground_projection_node/debug/ground_projection_image/compressed` you should see a top-down view of the detected segments:
 
@@ -167,9 +194,8 @@ This might be due to wrongly constructed lanes or bad Duckiebot calibrations. Fo
 
 While running the demo modify the PID controller gains from the base station through:
 
-```bash
+```none
 rosparam set /![DUCKIEBOT_NAME]/lane_controller_node/k_d -45
 rosparam set /![DUCKIEBOT_NAME]/lane_controller_node/k_theta -11
 ```
-
 ````
