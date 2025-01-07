@@ -243,7 +243,11 @@ You can try to mount the wheels even without the distance disks. But make sure t
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_23.jpg
 ```
 
+```{note}
+Connect the red fan cable to the 5V pin, as shown in step 23, or the 3.3V pin for a lower fan speed and less noise.
 
+![](../../_images/assembly/db21j/db21-rev1-hut-pins.png)
+```
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_24.jpg
 ```
@@ -338,6 +342,9 @@ Make sure that both rows of pins on the 40-pin expansion header on the Jetson Na
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_40.jpg
 ```
 
+```{note}
+The above refers to the IMU cable from step 28.
+```
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_41.jpg
 ```
@@ -350,10 +357,6 @@ This section (steps 42 to 51) guides you through the assembly of the *front asse
 
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-overview-step_42-51.jpg
-```
-
-```{note}
-Ignore the cable routing for the ToF sensor in the figure above.
 ```
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_42.jpg
@@ -369,7 +372,9 @@ Ignore the cable routing for the ToF sensor in the figure above.
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_44.jpg
 ```
 
-
+```{note}
+Optionally, complete step 44 after step 50.
+```
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_45.jpg
 ```
