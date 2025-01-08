@@ -133,25 +133,22 @@ This section (steps 3 to 18) guides you through the assembly of the *base-plate*
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_03.jpg
 ```
 
-```{note}
-You could try to use shorter screws in case the screws do not fully insert into the standoffs.
-```
-
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_04.jpg
 ```
 
-
 ```{note}
-Occasionally manufacturing tolerances (on the nut and the chassis) might prevent a flush fit. Trying a different nut or changing its orientation might solve the problem. Sometimes it may be convenient to use pliers.
+For steps 4 and 5, try using shorter screws if the suggested screws do not fully insert into the standoffs.
 ```
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_05.jpg
 ```
 
-
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_06.jpg
 ```
 
+```{note}
+Occasionally manufacturing tolerances (on the nut and the chassis) might prevent a flush fit. Trying a different nut or changing its orientation might solve the problem. Sometimes it may be convenient to use pliers.
+```
 
 ```{figure} ../../_images/assembly/db21j/db21-rev1-step_07.jpg
 ```
